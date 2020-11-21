@@ -24,3 +24,5 @@ Things you may want to cover:
 * ...
 
 # サーバーサイドの実装
+
+# フロントサイドの実装
