@@ -30,10 +30,9 @@ Things you may want to cover:
 # コミットしちゃった３
 
 
-<<<<<<< Updated upstream
-# ブランチ側でのあるあるシリーズ
-=======
 # ブランチ側でのあるあるシリーズ1
 
 マスターで間違えてコミットしちゃった２
->>>>>>> Stashed changes
+
+
+テストでマージするよ
